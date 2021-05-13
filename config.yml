@@ -1,0 +1,38 @@
+baseURL: https://karej.ir/
+languageCode: fa-IR
+title: کارِج
+theme: PaperMod
+description: "ExampleSite description"
+
+languages:
+    en:
+        menu:
+            main:
+                - name: اشتراک خبرنامه
+                  url: subscribe.html
+                  weight: 1
+        
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: کارِج
+    description: "ExampleSite description"
+
+    defaultTheme: auto
+    disableThemeToggle: false
+
+    homeInfoParams:
+        Title: "سلام \U0001F44B"
+        Content: حامد هستم. موقعیت‌های شغلی با Visa Sponsorship رو هر هفته برای شما ایمیل می‌کنم. [عضویت در خبرنامه](https://karej.ir/subscribe.html)
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/hameds/karej"
+        - name: twitter
+          url: "https://twitter.com/hamed"
+
+taxonomies:
+    tag: "tags"
+    country: "countries"
+    newsletter: "newsletters"
+    company: "companies"
