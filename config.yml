@@ -2,7 +2,7 @@ baseURL: https://karej.ir/
 languageCode: fa-IR
 title: کارِج
 theme: PaperMod
-description: "ExampleSite description"
+description: "خبرنامه هفتگی موقعیت‌های شغلی با ویزا اسپانسرشیپ"
 
 languages:
     en:
@@ -11,12 +11,15 @@ languages:
                 - name: اشتراک خبرنامه
                   url: subscribe.html
                   weight: 1
+                - name: حمایت
+                  url: https://payping.ir/hamedblog
+                  weight: 2
         
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: کارِج
-    description: "ExampleSite description"
+    description: "خبرنامه هفتگی موقعیت‌های شغلی با ویزا اسپانسرشیپ"
 
     defaultTheme: auto
     disableThemeToggle: false
