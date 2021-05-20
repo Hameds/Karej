@@ -4,7 +4,7 @@ date: 2021-05-14T12:21:35+04:30
 draft: false
 tags: ["PHP"]
 countries: "انگلستان"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Authentise"
 ---
 

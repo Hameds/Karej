@@ -4,7 +4,7 @@ date: 2021-05-14T12:07:04+04:30
 draft: false
 tags: ["SRE"]
 countries: "استرالیا"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Rokt"
 ---
 

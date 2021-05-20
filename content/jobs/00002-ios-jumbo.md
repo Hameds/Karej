@@ -4,7 +4,7 @@ date: 2021-05-13T18:06:10+04:30
 draft: false
 tags: ["iOS"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Jumbo"
 ---
 

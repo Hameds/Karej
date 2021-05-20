@@ -4,7 +4,7 @@ date: 2021-05-14T12:25:28+04:30
 draft: false
 tags: ["Java"]
 countries: "انگلستان"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Sanger"
 ---
 

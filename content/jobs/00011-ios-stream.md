@@ -4,7 +4,7 @@ date: 2021-05-13T18:45:59+04:30
 draft: false
 tags: ["iOS"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Stream"
 ---
 

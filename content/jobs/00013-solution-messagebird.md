@@ -4,7 +4,7 @@ date: 2021-05-13T18:50:59+04:30
 draft: false
 tags: ["Developer"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Message Bird"
 ---
 

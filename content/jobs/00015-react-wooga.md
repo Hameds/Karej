@@ -4,7 +4,7 @@ date: 2021-05-14T11:53:37+04:30
 draft: false
 tags: ["Reacct"]
 countries: "آلمان"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Wooga"
 ---
 

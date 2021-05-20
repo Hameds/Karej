@@ -4,7 +4,7 @@ date: 2021-05-14T12:03:59+04:30
 draft: false
 tags: ["SRE"]
 countries: "آلمان"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Kailo"
 ---
 

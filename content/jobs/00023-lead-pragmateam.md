@@ -4,7 +4,7 @@ date: 2021-05-14T12:05:43+04:30
 draft: false
 tags: ["Lead"]
 countries: "استرالیا"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "PragmaTeam"
 ---
 

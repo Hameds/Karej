@@ -4,7 +4,7 @@ date: 2021-05-14T11:59:41+04:30
 draft: false
 tags: ["React"]
 countries: "آلمان"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Neufund"
 ---
 

@@ -4,7 +4,7 @@ date: 2021-05-13T18:23:34+04:30
 draft: false
 tags: ["Frontend"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Degiro"
 ---
 

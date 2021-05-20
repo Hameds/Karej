@@ -4,7 +4,7 @@ date: 2021-05-14T12:29:38+04:30
 draft: false
 tags: ["DevOps"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Clay"
 ---
 

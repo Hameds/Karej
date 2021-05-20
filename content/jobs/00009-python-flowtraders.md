@@ -4,7 +4,7 @@ date: 2021-05-13T18:42:40+04:30
 draft: false
 tags: ["Python"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Flow Traders"
 ---
 

@@ -4,7 +4,7 @@ date: 2021-05-14T12:31:14+04:30
 draft: false
 tags: ["Fullstack"]
 countries: "هلند"
-newsletters: ["12","13"]
+newsletters: ["12","13","14"]
 companies: "Samotics"
 ---
 
